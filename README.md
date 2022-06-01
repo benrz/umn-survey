@@ -14,3 +14,64 @@ Admin Dashboard
 * Open or close surveys
 * Show survey results in graphs and trends of the same surveys by time
 * Show and download survey answers
+
+## Demo
+<br>
+<p align="center">
+  <img src="docs/1.jpg">
+</p>
+<br>
+
+<br>
+<p align="center">
+  <img src="docs/2.jpg">
+</p>
+<br>
+
+<br>
+<p align="center">
+  <img src="docs/3.jpg">
+</p>
+<br>
+
+<br>
+<p align="center">
+  <img src="docs/4.jpg">
+</p>
+<br>
+
+<br>
+<p align="center">
+  <img src="docs/5.jpg">
+</p>
+<br>
+
+<br>
+<p align="center">
+  <img src="docs/6.jpg">
+</p>
+<br>
+
+<br>
+<p align="center">
+  <img src="docs/7.jpg">
+</p>
+<br>
+
+<br>
+<p align="center">
+  <img src="docs/8.jpg">
+</p>
+<br>
+
+<br>
+<p align="center">
+  <img src="docs/9.jpg">
+</p>
+<br>
+
+<br>
+<p align="center">
+  <img src="docs/10.jpg">
+</p>
+<br>
